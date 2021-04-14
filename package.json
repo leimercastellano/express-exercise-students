@@ -1,0 +1,32 @@
+{
+  "name": "express-exercise-students",
+  "version": "1.0.0",
+  "description": "Nota: para estos ejercicios no se recomienda la documentación oficial de Express (para la mayoría de los ejercicios), ya que es demasiado genérica. En su lugar: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction#introducing_express",
+  "main": "server1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server1" : "nodemon server1.js",
+    "server2" : "nodemon server2.js",
+    "server3" : "nodemon server3.js",
+    "server4" : "nodemon server4.js",
+    "server5" : "nodemon server5.js",
+    "server6" : "nodemon server6.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leimercastellano/express-exercise-students.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leimercastellano/express-exercise-students/issues"
+  },
+  "homepage": "https://github.com/leimercastellano/express-exercise-students#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
